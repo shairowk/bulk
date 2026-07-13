@@ -1,4 +1,6 @@
-streamlit>=1.35
+streamlit>=1.36
 gspread>=6.0
 google-auth>=2.29
 requests>=2.31
+pandas>=2.0
+openpyxl>=3.1
